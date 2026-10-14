@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+frontend/node_modules/
+backend/generated_pdfs/*.pdf
+!backend/templates/scheme_form_template.pdf
+.vscode/
+.idea/
+
